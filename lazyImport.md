@@ -5,4 +5,4 @@
 
 After that, you only have 1 error,
 ![](https://i.gyazo.com/a7e356a12053ad41a538d47347443d7c.png)
-Comment the line 61"                //NetworkServer.maxConnections = 0;"
+Comment the line 61 on SceneScript.cs"                //NetworkServer.maxConnections = 0;"
